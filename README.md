@@ -18,6 +18,10 @@ To see my project, you'll want to clone and run the setup script for the repo
     cd sudoku-validator
     bin/setup
 
+    Linux: 
+    if u don't have bundle in your computer, execute this command on your terminal: 
+    sudo apt install ruby-bundler
+
 Sample usage:
 
 ```
