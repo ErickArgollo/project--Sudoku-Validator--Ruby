@@ -1,0 +1,3 @@
+require "validator"
+
+puts Validator.validate(File.read("spec/fixtures/valid_complete.sudoku"));
